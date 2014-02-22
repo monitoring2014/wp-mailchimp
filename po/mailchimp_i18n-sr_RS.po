@@ -1,0 +1,399 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR MailChimp API Support Team
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MailChimp 1.1.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mailchimp\n"
+"POT-Creation-Date: 2009-07-15 14:23-0400\n"
+"PO-Revision-Date: 2014-02-22 14:15+0100\n"
+"Last-Translator: Živko Zlokolica <zivko.zlokolica@gmail.com>\n"
+"Language-Team: MailChimp API <api@mailchimp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr_RS\n"
+"X-Generator: Poedit 1.6.4\n"
+
+#: mailchimp_includes.php:27 mailchimp_includes.php:62
+msgid "You must fill in %s."
+msgstr "Morate popuniti  %s."
+
+#: mailchimp_includes.php:59
+msgid "That email address is already subscribed to the list"
+msgstr "Ova email adresa je već prijavljena na listu"
+
+#: mailchimp_includes.php:66
+#, php-format
+msgid "%s has invalid content"
+msgstr "%s ima nevažeći sadržaj"
+
+#: mailchimp_includes.php:68
+msgid "An invalid Interest Group was selected"
+msgstr "Izabrana je nevažeća interesna grupa"
+
+#: mailchimp_includes.php:69
+msgid "That email address is invalid"
+msgstr "Ova email adresa je nevažeća"
+
+#: mailchimp_includes.php:75
+msgid "Success, you've been signed up! Please look for our confirmation email!"
+msgstr "Uspešno! Molimo Vas potražite naš e-mail da bi ste potvrdili prijavu!"
+
+#: mailchimp_includes.php:131
+msgid "required field"
+msgstr "zahtevano polje"
+
+#: mailchimp_includes.php:168
+msgid "unsubscribe from list"
+msgstr "odjavi se sa liste"
+
+#: mailchimp_includes.php:171
+msgid "powered by"
+msgstr "pokreće"
+
+#: mailchimp.php:135
+msgid "MailChimp Setup"
+msgstr "MailChimp podešavanja"
+
+#: mailchimp.php:150
+msgid ""
+"While upgrading the plugin setup, we were unable to login to your account. "
+"You will need to login again and setup your list."
+msgstr ""
+"Dok smo nadograđivali plugin, nismo bili u mogućnosti da se prijavimo na Vaš "
+"račun. Morate se ponovno prijaviti i podesiti Vaše liste."
+
+#: mailchimp.php:156
+msgid "MailChimp List Setup"
+msgstr "MailChimp podešavanje lista"
+
+#: mailchimp.php:166
+msgid ""
+"Success! We were able to verify your username & password! Let's continue, "
+"shall we?"
+msgstr "Uspešno! Verifikovali smo Vaše ime i lozinku! Hoćemo li nastaviti?"
+
+#: mailchimp.php:178
+msgid ""
+"Uh-oh, we were unable to login and verify your username & password. Please "
+"check them and try again!"
+msgstr ""
+"Uh-oh, nismo uspeli da verifikujemo vaše ime i lozinku. Molimo Vas proverite "
+"ih i probajte ponovo!"
+
+#: mailchimp.php:179
+msgid "The server said:"
+msgstr "Server kaže:"
+
+#: mailchimp.php:222
+msgid "Sign up for"
+msgstr "Prijavite se za"
+
+#: mailchimp.php:223
+msgid "Subscribe"
+msgstr "Upišite se"
+
+#: mailchimp.php:253
+#, php-format
+msgid ""
+"Success! Loaded and saved the info for %d Merge Variables and %d Interest "
+"Groups from your list"
+msgstr ""
+"Uspešno! Učitane i snimljene informacije za %d spoji promenljive i %d "
+"interesne grupe sa Vaše liste"
+
+#: mailchimp.php:256
+msgid ""
+"Now you should either Turn On the MailChimp Widget or change your options "
+"below, then turn it on."
+msgstr ""
+"Sada morate uključiti  MailChimp Widget ili promeniti svoje mogućnosti u "
+"nastavku, a zatim ga uključiti."
+
+#: mailchimp.php:284
+msgid "Successfully Reset your List selection... Now you get to pick again!"
+msgstr "Uspešan reset Vaše selektovane liste ... Sada je morate opet učitati!"
+
+#: mailchimp.php:290
+msgid "Monkey Rewards turned On!"
+msgstr "Monkey nagrade uključene!"
+
+#: mailchimp.php:294
+msgid "Monkey Rewards turned Off!"
+msgstr "Monkey nagrade isključene!"
+
+#: mailchimp.php:299
+msgid "Fancy Javascript submission turned On!"
+msgstr "Fancy Javascript za prijavljivanje uključene!"
+
+#: mailchimp.php:303
+msgid "Fancy Javascript submission turned Off!"
+msgstr "Fancy Javascript za prijavljivanje isključene!"
+
+#: mailchimp.php:309
+msgid "Unsubscribe link turned On!"
+msgstr "Odjavi se sa liste link uključen!"
+
+#: mailchimp.php:313
+msgid "Unsubscribe link turned Off!"
+msgstr "Odjavi se sa liste link isključen!"
+
+#: mailchimp.php:359
+msgid "Successfully Updated your List Subscribe Form Settings!"
+msgstr "Uspešno ste ažurirali postavke Vaše liste pretplatnika!"
+
+#: mailchimp.php:372
+msgid "Login Info"
+msgstr "Info prijave"
+
+#: mailchimp.php:373
+msgid ""
+"To start using the MailChimp plugin, we first need to login and get your API "
+"Key. Please enter your MailChimp username and password below."
+msgstr ""
+"Za početak korištenja MailChimp plugin-a, prvo se morate prijaviti i dobiti "
+"svoj API ključ. Molimo unesite svoje korisničko ime i lozinku za MailChimp "
+"ispod."
+
+#: mailchimp.php:375
+msgid ""
+"Don't have a MailChimp account? <a href='http://www.mailchimp.com/tryit."
+"phtml' target='_blank'>Try one for Free</a>!"
+msgstr ""
+"Nemate MailChimp nalog? <a href='http://www.mailchimp.com/tryit.phtml' "
+"target='_blank'>Probajte besplatno</a>!"
+
+#: mailchimp.php:379
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: mailchimp.php:383
+msgid "Password"
+msgstr "Lozinka"
+
+#: mailchimp.php:389
+msgid "Save & Check"
+msgstr "Snimi i proveri"
+
+#: mailchimp.php:394
+msgid "Notes"
+msgstr "Zabeleške"
+
+#: mailchimp.php:395
+msgid "Changing your settings at MailChimp.com may cause this to stop working."
+msgstr ""
+"Promena podešavanja na MailChimp.com može prouzrokovati da prestati raditi."
+
+#: mailchimp.php:396
+msgid ""
+"If you change your login to a different account, the info you have setup "
+"below will be erased."
+msgstr ""
+"Ako promenite svoju prijavu na neki drugi račun, informacije koje ste "
+"podesili u nastavku će biti izbrisane."
+
+#: mailchimp.php:397
+msgid ""
+"If any of that happens, no biggie - just reconfigure your login and the "
+"items below..."
+msgstr ""
+"Ako bilo što od toga dogodi, nema brige - samo rekonfigurišite svoje "
+"korisničko ime i stavke u nastavku ..."
+
+#: mailchimp.php:403
+msgid "Logged in as"
+msgstr "Prijavljen kao"
+
+#: mailchimp.php:407
+msgid "Logout"
+msgstr "Odjavi se"
+
+#: mailchimp.php:421
+msgid "Your Lists"
+msgstr "Vaše liste"
+
+#: mailchimp.php:423
+msgid "Please select the List you wish to create a Signup Form for."
+msgstr ""
+"Molimo odaberite listu za koju želite napraviti forma za prijavljivanje."
+
+#: mailchimp.php:432
+#, php-format
+msgid ""
+"Uh-oh, you don't have any lists defined! Please visit %s, login, and setup a "
+"list before using this tool!"
+msgstr ""
+"Uh-oh, nemate nijednu listu definisanu! Molimo Vas posetite %s , prijavite "
+"se, i podesite listu pre nego što koristite ovaj alat!"
+
+#: mailchimp.php:437
+msgid "Select A List"
+msgstr "Selektujete listu"
+
+#: mailchimp.php:450
+msgid "Update List"
+msgstr "Obnovite listu"
+
+#: mailchimp.php:453
+msgid "Note:"
+msgstr "Zabeleška:"
+
+#: mailchimp.php:453
+msgid ""
+"Updating your list will not cause settings below to be lost. Changing to a "
+"new list will."
+msgstr ""
+"Ažuriranje liste neće izazvati gobljenje podešavanja. Promena na novu listu "
+"će izbrisati podešavanja."
+
+#: mailchimp.php:471
+msgid "Reset List Options and Select again"
+msgstr "Resetujte opcije liste i selektujete ponovo"
+
+#: mailchimp.php:474
+msgid "Subscribe Form Widget Settings for this List"
+msgstr "Podešavanje Widget forme za prijavljivanje za listu"
+
+#: mailchimp.php:475
+msgid "Selected MailChimp List"
+msgstr "Selektovana MailChimp lista"
+
+#: mailchimp.php:496 mailchimp.php:569 mailchimp.php:630
+msgid "Update Subscribe Form Settings"
+msgstr "Ažurirajte podešavanja forme za prijavljivanje"
+
+#: mailchimp.php:499
+msgid "Monkey Rewards"
+msgstr "Monkey nagrade"
+
+#: mailchimp.php:501
+msgid ""
+"turning this on will place a \"powered by MailChimp\" link in your form that "
+"will earn you credits with us. It is optional and can be turned on or off at "
+"any time."
+msgstr ""
+"uključivanje ovoga će postaviti  \"pokreće MailChimp \" link u vašoj formi i "
+"zaradićete kredite sa nama. To je opcija, i može se uključiti ili isključiti "
+"u bilo kom trenutku."
+
+#: mailchimp.php:505
+msgid "Use Javascript Support?"
+msgstr "Koristi Javascript podršku?"
+
+#: mailchimp.php:507
+msgid ""
+"turning this on will use fancy javascript submission and should degrade "
+"gracefully for users not using javascript. It is optional and can be turned "
+"on or off at any time."
+msgstr ""
+"uključivanje ovoga će postaviti javascript u vašoj formi i možda se neće "
+"dobro prikazati korisnicima koji ne koriste javascript. To je opcija, i može "
+"se uključiti ili isključiti u bilo kom trenutku."
+
+#: mailchimp.php:511
+msgid "Include Unsubscribe link?"
+msgstr "Uključi \"odjavi me\" link?"
+
+#: mailchimp.php:513
+msgid "turning this on will add a link to your host unsubscribe form"
+msgstr "uključenje ovoga će dodati link na Vašu formu za odjavu"
+
+#: mailchimp.php:517
+msgid "Header content"
+msgstr "Sadržaj zaglavlja"
+
+#: mailchimp.php:520
+msgid ""
+"You can fill this with your own Text, HTML markup (including image links), "
+"or Nothing!"
+msgstr ""
+"Možete popuniti to sa svojim tekstom, HTML markup (uključujući linkove za "
+"slike), ili ostaviti prazno!"
+
+#: mailchimp.php:525
+msgid "Submit Button text"
+msgstr "Tekst na tasteru Prijavi se"
+
+#: mailchimp.php:532
+msgid "Custom Styling"
+msgstr "Prilagođen dizajn"
+
+#: mailchimp.php:536
+msgid "Turned On?"
+msgstr "Uključeno?"
+
+#: mailchimp.php:537
+msgid ""
+"Header Settings (only applies if there are no HTML tags in the Header "
+"Content area above)"
+msgstr ""
+"Postavke zaglavlja (vredi samo ako nema HTML oznake u sadržaju zaglavlja "
+"iznad)"
+
+#: mailchimp.php:538 mailchimp.php:552
+msgid "Border Width"
+msgstr "Širina okvira"
+
+#: mailchimp.php:539 mailchimp.php:553
+msgid "Set to 0 for no border, do not enter <strong>px</strong>!"
+msgstr "Postavite 0 ako ne želite okvir, nemojte unositi <strong>px</strong>!"
+
+#: mailchimp.php:541 mailchimp.php:555
+msgid "Border Color"
+msgstr "Boja okvira"
+
+#: mailchimp.php:542 mailchimp.php:545 mailchimp.php:548 mailchimp.php:556
+#: mailchimp.php:559 mailchimp.php:562
+msgid "do not enter initial <strong>#</strong>"
+msgstr "nemojte unositi inicijalno <strong>#</strong>"
+
+#: mailchimp.php:551
+msgid "Form Settings"
+msgstr "Podešavanje forme"
+
+#: mailchimp.php:571
+msgid "Merge Variables Included"
+msgstr "Spojene promenljive uključene"
+
+#: mailchimp.php:574
+msgid "No Merge Variables found."
+msgstr "Nismo pronašli spojene promenljive"
+
+#: mailchimp.php:580 mailchimp.php:614
+msgid "Name"
+msgstr "Ime"
+
+#: mailchimp.php:581
+msgid "Tag"
+msgstr "Tag"
+
+#: mailchimp.php:582
+msgid "Required?"
+msgstr "Zahtevano?"
+
+#: mailchimp.php:583
+msgid "Include?"
+msgstr "Uključeno?"
+
+#: mailchimp.php:603
+msgid "Interest Groups"
+msgstr "Interesne grupe"
+
+#: mailchimp.php:605
+msgid "No Interest Groups Setup for this List"
+msgstr "Nema interesnih grupa za ovu listu"
+
+#: mailchimp.php:610
+msgid "Show?"
+msgstr "Prikaži?"
+
+#: mailchimp.php:617
+msgid "Input Type"
+msgstr "Tip unosa"
+
+#: mailchimp.php:620
+msgid "Options"
+msgstr "Opcije"
